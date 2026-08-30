@@ -128,6 +128,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Google TensorFlow Developer Certificate
 - [ ] AWS Certified Machine Learning – Specialty
 - [ ] DeepLearning.AI TensorFlow / NLP specializations
+- [ ] Microsoft Certified: Azure AI Fundamentals (if I go the Azure route)
 
 ## Progress Log
 
