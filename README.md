@@ -41,3 +41,16 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Regularization (dropout, batch norm, weight decay)
 - [ ] Transfer learning & fine-tuning
 - [ ] Training on GPUs, mixed precision basics
+
+## Natural Language Processing / LLMs
+
+- [ ] Text preprocessing (tokenization, embeddings, stopwords)
+- [ ] Word2Vec, GloVe — classic embedding methods
+- [ ] Transformer architecture deep dive (attention, positional encoding)
+- [ ] Pretraining vs. fine-tuning vs. prompting
+- [ ] Large language models — how GPT/Claude-style models work at a high level
+- [ ] Prompt engineering fundamentals
+- [ ] Retrieval-augmented generation (RAG)
+- [ ] Fine-tuning an LLM (LoRA / PEFT basics)
+- [ ] Evaluation of generative models
+- [ ] Hugging Face ecosystem (transformers, datasets, tokenizers)
