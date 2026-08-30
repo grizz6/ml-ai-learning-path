@@ -13,3 +13,18 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] NumPy — array operations, broadcasting, vectorization
 - [ ] Pandas — data wrangling, cleaning, merging
 - [ ] Data visualization (Matplotlib / Seaborn)
+
+## Core Machine Learning
+
+- [ ] What is ML? Supervised vs. unsupervised vs. reinforcement learning
+- [ ] Linear & logistic regression
+- [ ] Decision trees & random forests
+- [ ] Gradient boosting (XGBoost, LightGBM)
+- [ ] Support vector machines
+- [ ] k-nearest neighbors
+- [ ] Clustering (k-means, hierarchical, DBSCAN)
+- [ ] Dimensionality reduction (PCA, t-SNE, UMAP)
+- [ ] Model evaluation (train/test split, cross-validation, metrics)
+- [ ] Bias-variance tradeoff, overfitting/underfitting
+- [ ] Feature engineering & selection
+- [ ] scikit-learn — hands-on practice
