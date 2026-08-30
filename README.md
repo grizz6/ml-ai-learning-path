@@ -64,3 +64,13 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Image segmentation
 - [ ] Vision transformers (ViT)
 - [ ] Generative image models (diffusion models, GANs) — at least conceptually
+
+## MLOps & Deployment
+
+- [ ] Model versioning & experiment tracking (MLflow, Weights & Biases)
+- [ ] Packaging a model for serving (FastAPI, Flask)
+- [ ] Containerizing with Docker
+- [ ] Model monitoring & drift detection
+- [ ] Basics of cloud ML platforms (AWS SageMaker / GCP Vertex AI / Azure ML — pick one)
+- [ ] CI/CD for ML projects
+- [ ] Vector databases for embeddings (Pinecone, Chroma, FAISS)
