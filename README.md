@@ -115,6 +115,18 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] StatQuest (YouTube) for intuitive stats/ML explanations
 - [ ] Papers With Code — for staying current on new research
 
+## Communities & Datasets
+
+- [ ] Join r/MachineLearning and r/learnmachinelearning
+- [ ] Set up a Kaggle account and browse beginner-friendly datasets
+- [ ] Follow a few ML practitioners/researchers for paper summaries
+
+## Certifications to Consider
+
+- [ ] Google TensorFlow Developer Certificate
+- [ ] AWS Certified Machine Learning – Specialty
+- [ ] DeepLearning.AI TensorFlow / NLP specializations
+
 ## Progress Log
 
 Quick notes to self as I go — dated entries, most recent on top.
