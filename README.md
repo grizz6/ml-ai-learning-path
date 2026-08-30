@@ -74,3 +74,13 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Basics of cloud ML platforms (AWS SageMaker / GCP Vertex AI / Azure ML — pick one)
 - [ ] CI/CD for ML projects
 - [ ] Vector databases for embeddings (Pinecone, Chroma, FAISS)
+
+## Projects to Build
+
+- [ ] Simple regression/classification project on a Kaggle dataset
+- [ ] Image classifier from scratch (CNN)
+- [ ] Sentiment analysis / text classifier
+- [ ] A small RAG app over my own documents
+- [ ] Fine-tune a small open-source LLM on a custom dataset
+- [ ] End-to-end project: data → model → deployed API → simple frontend
+- [ ] Kaggle competition (just to compete, not necessarily win)
