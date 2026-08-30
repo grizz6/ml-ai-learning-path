@@ -84,3 +84,13 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Fine-tune a small open-source LLM on a custom dataset
 - [ ] End-to-end project: data → model → deployed API → simple frontend
 - [ ] Kaggle competition (just to compete, not necessarily win)
+
+## Resources & Books
+
+- [ ] *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* — Aurélien Géron
+- [ ] *Deep Learning* — Goodfellow, Bengio, Courville
+- [ ] fast.ai — Practical Deep Learning for Coders
+- [ ] Andrew Ng's Machine Learning Specialization (Coursera)
+- [ ] CS231n (Stanford, CNNs for visual recognition) — lecture notes/videos
+- [ ] Hugging Face NLP course
+- [ ] 3Blue1Brown neural network video series
