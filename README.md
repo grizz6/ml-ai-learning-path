@@ -120,6 +120,8 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Join r/MachineLearning and r/learnmachinelearning
 - [ ] Set up a Kaggle account and browse beginner-friendly datasets
 - [ ] Follow a few ML practitioners/researchers for paper summaries
+- [ ] Explore UCI Machine Learning Repository for classic datasets
+- [ ] Bookmark Papers With Code's trending section
 
 ## Certifications to Consider
 
