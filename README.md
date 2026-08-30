@@ -54,3 +54,13 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Fine-tuning an LLM (LoRA / PEFT basics)
 - [ ] Evaluation of generative models
 - [ ] Hugging Face ecosystem (transformers, datasets, tokenizers)
+
+## Computer Vision
+
+- [ ] Image basics (pixels, color spaces, augmentation)
+- [ ] Classic CV techniques (edge detection, filters) before deep CV
+- [ ] Image classification with CNNs
+- [ ] Object detection (YOLO, Faster R-CNN basics)
+- [ ] Image segmentation
+- [ ] Vision transformers (ViT)
+- [ ] Generative image models (diffusion models, GANs) — at least conceptually
