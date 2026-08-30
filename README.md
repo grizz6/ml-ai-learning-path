@@ -98,6 +98,8 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Fine-tune a small open-source LLM on a custom dataset
 - [ ] End-to-end project: data → model → deployed API → simple frontend
 - [ ] Kaggle competition (just to compete, not necessarily win)
+- [ ] Recommender system (collaborative filtering or content-based)
+- [ ] Time series forecasting project
 
 ## Resources & Books
 
