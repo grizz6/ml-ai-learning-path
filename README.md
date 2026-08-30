@@ -28,3 +28,16 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Bias-variance tradeoff, overfitting/underfitting
 - [ ] Feature engineering & selection
 - [ ] scikit-learn — hands-on practice
+
+## Deep Learning
+
+- [ ] Neural network basics (perceptrons, activation functions, backprop)
+- [ ] PyTorch fundamentals
+- [ ] TensorFlow/Keras fundamentals (compare with PyTorch)
+- [ ] Convolutional neural networks (CNNs)
+- [ ] Recurrent neural networks (RNNs, LSTM, GRU)
+- [ ] Transformers & attention mechanisms
+- [ ] Optimizers (SGD, Adam, learning rate schedules)
+- [ ] Regularization (dropout, batch norm, weight decay)
+- [ ] Transfer learning & fine-tuning
+- [ ] Training on GPUs, mixed precision basics
