@@ -110,6 +110,8 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] CS231n (Stanford, CNNs for visual recognition) — lecture notes/videos
 - [ ] Hugging Face NLP course
 - [ ] 3Blue1Brown neural network video series
+- [ ] StatQuest (YouTube) for intuitive stats/ML explanations
+- [ ] Papers With Code — for staying current on new research
 
 ## Progress Log
 
