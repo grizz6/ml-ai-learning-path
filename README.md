@@ -91,6 +91,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Basics of cloud ML platforms (AWS SageMaker / GCP Vertex AI / Azure ML — pick one)
 - [ ] CI/CD for ML projects
 - [ ] Vector databases for embeddings (Pinecone, Chroma, FAISS)
+- [ ] Basic system design for ML-backed products
 
 ## Projects to Build
 
