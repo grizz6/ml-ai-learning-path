@@ -94,3 +94,9 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] CS231n (Stanford, CNNs for visual recognition) — lecture notes/videos
 - [ ] Hugging Face NLP course
 - [ ] 3Blue1Brown neural network video series
+
+## Progress Log
+
+Quick notes to self as I go — dated entries, most recent on top.
+
+- **2026-08-29** — Repo created. Laid out the full roadmap across foundations, core ML, deep learning, NLP, CV, MLOps, projects, and resources. Starting point: comfortable with Python, need to build up math intuition and hands-on ML/DL practice.
