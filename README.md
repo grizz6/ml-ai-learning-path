@@ -4,6 +4,18 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 
 **How I use this:** check items off as I complete them, add notes/links under a topic when I find a good resource, and add new topics as I discover what I don't know yet.
 
+## Contents
+
+- [Foundations: Math & Programming](#foundations-math--programming)
+- [Core Machine Learning](#core-machine-learning)
+- [Deep Learning](#deep-learning)
+- [Natural Language Processing / LLMs](#natural-language-processing--llms)
+- [Computer Vision](#computer-vision)
+- [MLOps & Deployment](#mlops--deployment)
+- [Projects to Build](#projects-to-build)
+- [Resources & Books](#resources--books)
+- [Progress Log](#progress-log)
+
 ## Foundations: Math & Programming
 
 - [ ] Linear algebra (vectors, matrices, eigenvalues/eigenvectors, matrix decomposition)
