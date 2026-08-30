@@ -25,6 +25,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Linear algebra (vectors, matrices, eigenvalues/eigenvectors, matrix decomposition)
 - [ ] Calculus (derivatives, gradients, chain rule, partial derivatives)
 - [ ] Probability & statistics (distributions, Bayes' theorem, hypothesis testing)
+- [ ] Information theory basics (entropy, cross-entropy, KL divergence)
 - [ ] Python fundamentals (already comfortable, but revisit idiomatic patterns)
 - [ ] NumPy — array operations, broadcasting, vectorization
 - [ ] Pandas — data wrangling, cleaning, merging
