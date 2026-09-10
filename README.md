@@ -158,4 +158,5 @@ A loose weekly rhythm, not a strict schedule — adjust based on the week.
 
 Quick notes to self as I go — dated entries, most recent on top.
 
+- **2026-09-09** — Went back through every section and added a specific sub-note under the items I'm most likely to start with (linear algebra, calculus, probability, NumPy, regression, model evaluation, neural nets, transformers, prompting, RAG, CNNs, experiment tracking) so future-me has a concrete next action instead of just a topic name. Also added Communities & Datasets, Certifications to Consider, and a Weekly Study Plan to give the list some actual rhythm.
 - **2026-08-29** — Repo created. Laid out the full roadmap across foundations, core ML, deep learning, NLP, CV, MLOps, projects, and resources. Starting point: comfortable with Python, need to build up math intuition and hands-on ML/DL practice.
