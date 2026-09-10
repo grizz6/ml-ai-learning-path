@@ -49,6 +49,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Gradient boosting (XGBoost, LightGBM)
   - This is what wins most tabular-data Kaggle competitions — worth extra practice time
 - [ ] Support vector machines
+  - Get comfortable with the kernel trick — it's the part that never made sense in undergrad
 - [ ] k-nearest neighbors
 - [ ] Clustering (k-means, hierarchical, DBSCAN)
   - Know when to use each: k-means needs a chosen k, DBSCAN handles noise/odd shapes better
