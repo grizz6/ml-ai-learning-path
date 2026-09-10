@@ -35,6 +35,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] NumPy — array operations, broadcasting, vectorization
   - Practice: rewrite a few for-loops as vectorized NumPy ops and compare speed
 - [ ] Pandas — data wrangling, cleaning, merging
+  - Practice on a messy real-world CSV (nulls, mixed types, duplicates) not a clean toy dataset
 - [ ] Data visualization (Matplotlib / Seaborn)
 
 ## Core Machine Learning
