@@ -60,6 +60,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Bias-variance tradeoff, overfitting/underfitting
   - Draw the classic U-shaped curve myself until it's intuitive, not memorized
 - [ ] Feature engineering & selection
+  - Often matters more than model choice — spend real time here, not just on algorithms
 - [ ] scikit-learn — hands-on practice
 
 ## Deep Learning
