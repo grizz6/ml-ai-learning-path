@@ -77,6 +77,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Prompt engineering fundamentals
   - Practice: zero-shot vs few-shot vs chain-of-thought prompting, system vs user prompts
 - [ ] Retrieval-augmented generation (RAG)
+  - Understand chunking strategies, embedding similarity search, and re-ranking
 - [ ] Fine-tuning an LLM (LoRA / PEFT basics)
 - [ ] Evaluation of generative models
 - [ ] Hugging Face ecosystem (transformers, datasets, tokenizers)
