@@ -87,6 +87,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Image basics (pixels, color spaces, augmentation)
 - [ ] Classic CV techniques (edge detection, filters) before deep CV
 - [ ] Image classification with CNNs
+  - Start with MNIST/CIFAR-10, then try a real-world dataset from Kaggle
 - [ ] Object detection (YOLO, Faster R-CNN basics)
 - [ ] Image segmentation
 - [ ] Vision transformers (ViT)
