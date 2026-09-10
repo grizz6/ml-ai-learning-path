@@ -46,6 +46,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Decision trees & random forests
   - Understand how splits are chosen (Gini impurity / entropy) and why forests reduce variance
 - [ ] Gradient boosting (XGBoost, LightGBM)
+  - This is what wins most tabular-data Kaggle competitions — worth extra practice time
 - [ ] Support vector machines
 - [ ] k-nearest neighbors
 - [ ] Clustering (k-means, hierarchical, DBSCAN)
