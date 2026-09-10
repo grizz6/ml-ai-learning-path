@@ -18,6 +18,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [Resources & Books](#resources--books)
 - [Communities & Datasets](#communities--datasets)
 - [Certifications to Consider](#certifications-to-consider)
+- [Weekly Study Plan](#weekly-study-plan)
 - [Progress Log](#progress-log)
 
 ## Foundations: Math & Programming
