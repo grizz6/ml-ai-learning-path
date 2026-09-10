@@ -50,6 +50,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Support vector machines
 - [ ] k-nearest neighbors
 - [ ] Clustering (k-means, hierarchical, DBSCAN)
+  - Know when to use each: k-means needs a chosen k, DBSCAN handles noise/odd shapes better
 - [ ] Dimensionality reduction (PCA, t-SNE, UMAP)
 - [ ] Model evaluation (train/test split, cross-validation, metrics)
   - Metrics to know cold: accuracy, precision, recall, F1, ROC-AUC, confusion matrix
