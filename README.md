@@ -27,6 +27,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Calculus (derivatives, gradients, chain rule, partial derivatives)
   - Goal: understand gradient descent well enough to explain it without notes
 - [ ] Probability & statistics (distributions, Bayes' theorem, hypothesis testing)
+  - Includes: normal/binomial/Poisson distributions, p-values, confidence intervals
 - [ ] Information theory basics (entropy, cross-entropy, KL divergence)
 - [ ] Python fundamentals (already comfortable, but revisit idiomatic patterns)
 - [ ] NumPy — array operations, broadcasting, vectorization
