@@ -96,6 +96,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 ## MLOps & Deployment
 
 - [ ] Model versioning & experiment tracking (MLflow, Weights & Biases)
+  - Set up W&B on one of my own training runs to see the dashboards in practice
 - [ ] Packaging a model for serving (FastAPI, Flask)
 - [ ] Containerizing with Docker
 - [ ] Model monitoring & drift detection
