@@ -145,6 +145,15 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] DeepLearning.AI TensorFlow / NLP specializations
 - [ ] Microsoft Certified: Azure AI Fundamentals (if I go the Azure route)
 
+## Weekly Study Plan
+
+A loose weekly rhythm, not a strict schedule — adjust based on the week.
+
+- [ ] Mon/Wed/Fri — 45–60 min on theory (math, course videos, reading)
+- [ ] Tue/Thu — hands-on coding practice (notebooks, small exercises)
+- [ ] Weekend — one longer session to work on a project from the Projects list
+- [ ] End of week — quick review: what clicked, what didn't, update this file
+
 ## Progress Log
 
 Quick notes to self as I go — dated entries, most recent on top.
