@@ -55,6 +55,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Model evaluation (train/test split, cross-validation, metrics)
   - Metrics to know cold: accuracy, precision, recall, F1, ROC-AUC, confusion matrix
 - [ ] Bias-variance tradeoff, overfitting/underfitting
+  - Draw the classic U-shaped curve myself until it's intuitive, not memorized
 - [ ] Feature engineering & selection
 - [ ] scikit-learn — hands-on practice
 
