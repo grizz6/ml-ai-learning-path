@@ -47,6 +47,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Clustering (k-means, hierarchical, DBSCAN)
 - [ ] Dimensionality reduction (PCA, t-SNE, UMAP)
 - [ ] Model evaluation (train/test split, cross-validation, metrics)
+  - Metrics to know cold: accuracy, precision, recall, F1, ROC-AUC, confusion matrix
 - [ ] Bias-variance tradeoff, overfitting/underfitting
 - [ ] Feature engineering & selection
 - [ ] scikit-learn — hands-on practice
