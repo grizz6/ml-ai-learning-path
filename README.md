@@ -31,6 +31,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Information theory basics (entropy, cross-entropy, KL divergence)
 - [ ] Python fundamentals (already comfortable, but revisit idiomatic patterns)
 - [ ] NumPy — array operations, broadcasting, vectorization
+  - Practice: rewrite a few for-loops as vectorized NumPy ops and compare speed
 - [ ] Pandas — data wrangling, cleaning, merging
 - [ ] Data visualization (Matplotlib / Seaborn)
 
