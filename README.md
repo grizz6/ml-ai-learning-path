@@ -39,6 +39,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 
 - [ ] What is ML? Supervised vs. unsupervised vs. reinforcement learning
 - [ ] Linear & logistic regression
+  - Implement both from scratch with just NumPy before using scikit-learn's version
 - [ ] Decision trees & random forests
 - [ ] Gradient boosting (XGBoost, LightGBM)
 - [ ] Support vector machines
