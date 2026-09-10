@@ -68,6 +68,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] TensorFlow/Keras fundamentals (compare with PyTorch)
 - [ ] Convolutional neural networks (CNNs)
 - [ ] Recurrent neural networks (RNNs, LSTM, GRU)
+  - Understand vanishing gradients — it's the whole reason LSTM/GRU and later transformers exist
 - [ ] Transformers & attention mechanisms
   - Read "Attention Is All You Need" once I have the RNN/LSTM context to appreciate it
 - [ ] Optimizers (SGD, Adam, learning rate schedules)
