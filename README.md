@@ -75,6 +75,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Pretraining vs. fine-tuning vs. prompting
 - [ ] Large language models — how GPT/Claude-style models work at a high level
 - [ ] Prompt engineering fundamentals
+  - Practice: zero-shot vs few-shot vs chain-of-thought prompting, system vs user prompts
 - [ ] Retrieval-augmented generation (RAG)
 - [ ] Fine-tuning an LLM (LoRA / PEFT basics)
 - [ ] Evaluation of generative models
