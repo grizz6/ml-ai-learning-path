@@ -30,6 +30,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Probability & statistics (distributions, Bayes' theorem, hypothesis testing)
   - Includes: normal/binomial/Poisson distributions, p-values, confidence intervals
 - [ ] Information theory basics (entropy, cross-entropy, KL divergence)
+  - Connect this back to why cross-entropy loss is used for classification
 - [ ] Python fundamentals (already comfortable, but revisit idiomatic patterns)
 - [ ] NumPy — array operations, broadcasting, vectorization
   - Practice: rewrite a few for-loops as vectorized NumPy ops and compare speed
