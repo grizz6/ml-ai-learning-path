@@ -55,6 +55,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 ## Deep Learning
 
 - [ ] Neural network basics (perceptrons, activation functions, backprop)
+  - Build a tiny neural net from scratch (no framework) to really understand backprop
 - [ ] PyTorch fundamentals
 - [ ] TensorFlow/Keras fundamentals (compare with PyTorch)
 - [ ] Convolutional neural networks (CNNs)
