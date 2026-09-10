@@ -164,6 +164,16 @@ A loose weekly rhythm, not a strict schedule — adjust based on the week.
 - [ ] Weekend — one longer session to work on a project from the Projects list
 - [ ] End of week — quick review: what clicked, what didn't, update this file
 
+## Interview Prep
+
+For when I'm ready to start applying for ML-adjacent roles.
+
+- [ ] Be able to explain any project on my resume end-to-end, including why I made specific choices
+- [ ] Practice explaining bias-variance tradeoff, regularization, and overfitting out loud, simply
+- [ ] Review common ML system design questions (e.g. "design a recommendation system")
+- [ ] SQL + Python data manipulation practice (still comes up a lot in ML interviews)
+- [ ] Mock interview with a friend or on Pramp/interviewing.io
+
 ## Progress Log
 
 Quick notes to self as I go — dated entries, most recent on top.
