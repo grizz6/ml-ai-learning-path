@@ -64,6 +64,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Neural network basics (perceptrons, activation functions, backprop)
   - Build a tiny neural net from scratch (no framework) to really understand backprop
 - [ ] PyTorch fundamentals
+  - Tensors, autograd, `nn.Module`, training loops — write one from scratch before using Lightning
 - [ ] TensorFlow/Keras fundamentals (compare with PyTorch)
 - [ ] Convolutional neural networks (CNNs)
 - [ ] Recurrent neural networks (RNNs, LSTM, GRU)
