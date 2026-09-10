@@ -72,6 +72,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Transformers & attention mechanisms
   - Read "Attention Is All You Need" once I have the RNN/LSTM context to appreciate it
 - [ ] Optimizers (SGD, Adam, learning rate schedules)
+  - Know the tradeoffs: SGD+momentum vs. Adam vs. AdamW, and when LR warmup/decay helps
 - [ ] Regularization (dropout, batch norm, weight decay)
 - [ ] Transfer learning & fine-tuning
 - [ ] Training on GPUs, mixed precision basics
