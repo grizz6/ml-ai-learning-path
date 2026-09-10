@@ -44,6 +44,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Linear & logistic regression
   - Implement both from scratch with just NumPy before using scikit-learn's version
 - [ ] Decision trees & random forests
+  - Understand how splits are chosen (Gini impurity / entropy) and why forests reduce variance
 - [ ] Gradient boosting (XGBoost, LightGBM)
 - [ ] Support vector machines
 - [ ] k-nearest neighbors
