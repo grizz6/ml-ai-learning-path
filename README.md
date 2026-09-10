@@ -25,6 +25,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Linear algebra (vectors, matrices, eigenvalues/eigenvectors, matrix decomposition)
   - Focus areas: dot products, matrix multiplication rules, why eigenvectors matter for PCA later
 - [ ] Calculus (derivatives, gradients, chain rule, partial derivatives)
+  - Goal: understand gradient descent well enough to explain it without notes
 - [ ] Probability & statistics (distributions, Bayes' theorem, hypothesis testing)
 - [ ] Information theory basics (entropy, cross-entropy, KL divergence)
 - [ ] Python fundamentals (already comfortable, but revisit idiomatic patterns)
