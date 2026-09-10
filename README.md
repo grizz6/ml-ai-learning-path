@@ -61,6 +61,7 @@ My personal roadmap and to-do list for learning machine learning and AI, from th
 - [ ] Convolutional neural networks (CNNs)
 - [ ] Recurrent neural networks (RNNs, LSTM, GRU)
 - [ ] Transformers & attention mechanisms
+  - Read "Attention Is All You Need" once I have the RNN/LSTM context to appreciate it
 - [ ] Optimizers (SGD, Adam, learning rate schedules)
 - [ ] Regularization (dropout, batch norm, weight decay)
 - [ ] Transfer learning & fine-tuning
