@@ -1,6 +1,12 @@
 # ML/AI Learning Path
 
+## About
+
 My personal roadmap and to-do list for learning machine learning and AI, from the ground up. This repo has no code — it's just a living checklist I update as I go.
+
+- **What's covered:** 91 checklist items across math foundations, core ML, deep learning, NLP/LLMs, computer vision, MLOps, projects, resources, communities, certifications, a weekly study plan, and interview prep
+- **Progress:** 0 of 91 checked off so far
+- **Where I'm coming from:** I've already done applied ML in R and Python (regression, ensembles, clustering, and neural nets in [Academic-Project---Webster-University](https://github.com/grizz6/Academic-Project---Webster-University) and [Python-mini-projects](https://github.com/grizz6/Python-mini-projects)). This list is about filling in the theory underneath and moving into deep learning and LLMs.
 
 **Currently focused on:** Foundations (math + NumPy/Pandas) before moving into Core ML.
 
